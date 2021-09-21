@@ -28,4 +28,4 @@
   </div>
   
   ##
-  <img align="center" alt="Pedro-Foto" height="125" width="125" src="https://cdn.discordapp.com/attachments/865386462530240595/889969817300402276/Pato-Foto.png">
+  <img align="center" alt="Pedro-Foto" height="125" width="125" src="https://cdn.discordapp.com/attachments/865386462530240595/889972274021670942/Pedro.png">
