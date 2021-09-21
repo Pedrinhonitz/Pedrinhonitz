@@ -1,4 +1,4 @@
-# Hello World, sou Pedro Henrique Klein
+# Hello World, sou Pedro Henrique Klein <img align="center" alt="Pedro-Foto" height="125px" width="145px" src="https://cdn.discordapp.com/attachments/865386462530240595/890023245691125770/corpo_todo.png">
 
 ### Seja Bem-vindo
 
@@ -28,4 +28,4 @@
   </div>
   
   ##
-  <img align="center" alt="Pedro-Foto" height="125" width="125" src="https://cdn.discordapp.com/attachments/865386462530240595/889972274021670942/Pedro.png">
+  <img align="center" alt="Pedro-Foto2" height="105px" width="125px" src="https://cdn.discordapp.com/attachments/865386462530240595/890023437324681227/Pescoco_pra_cima.png">
