@@ -33,7 +33,7 @@
   <img align="center" alt="Pedro-Foto2" height="105px" width="125px" src="https://cdn.discordapp.com/attachments/865386462530240595/890023437324681227/Pescoco_pra_cima.png">
  
   ##
-  ## Total de Visitas no perfil :detective: <br>
+  ## 🟢 Total de Visitas no perfil 🟢<br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Pedrinhonitz/count.svg" />
  </p>
