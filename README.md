@@ -20,6 +20,7 @@
  <img align="center" alt="Pedro-Js" height="30" width="30" src="https://cdn.discordapp.com/attachments/895045831504314379/902597629718970438/React.png">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Pedro-Python" height="30" width="30" src="https://cdn.discordapp.com/attachments/913474140814606346/913474172208971876/c.png">
+ <img align="center" alt="Pedro-Python" height="30" width="30" src="https://cdn.discordapp.com/attachments/913474140814606346/923985647264477276/pngwing.com.png">
 </div>
   
   ##
