@@ -1,9 +1,9 @@
  <p align="center"><img alt="Pedro-Foto" height="125px" width="145px" src="https://cdn.discordapp.com/attachments/865386462530240595/890023245691125770/corpo_todo.png"></p>
-<h1 align="center"> Hello World, sou Pedro Henrique Klein </h1> 
+<h1 align="center"> Hello world, I'm Pedro Henrique Klein </h1> 
 
-<h3 align="center">Seja Bem-vindo</h3>
+<h3 align="center"> Welcome </h3>
 
-<p align="center">📚 Cursando Ciência da Computação na Universidade Federal da Fronteira Sul</p>
+<p align="center">📚 Studying Computer Science at the Federal University of Fronteira Sul </p>
 
 ##
 
@@ -34,7 +34,7 @@
   <p align="center"><img align="center" alt="Pedro-Foto2" height="105px" width="125px" src="https://cdn.discordapp.com/attachments/865386462530240595/890023437324681227/Pescoco_pra_cima.png"></p>
  
   ##
- <h2 align="center"> 🟢 Total de Visitas no perfil 🟢</h2><br>
+ <h2 align="center"> 🟢 Profile views 🟢</h2><br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Pedrinhonitz/count.svg" />
  </p>
