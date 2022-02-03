@@ -3,7 +3,9 @@
 
 <h3 align="center"> Welcome </h3>
 
-<p align="center">📚 Studying Computer Science at the Federal University of Fronteira Sul </p>
+<p align="center">📚 Studying Computer Science at the Federal University of Fronteira Sul </p>]
+<p align="center"💼 I work at Descomplica with Analytics </p>
+
 
 ##
 
