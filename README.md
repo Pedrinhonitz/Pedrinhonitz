@@ -23,6 +23,7 @@
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Pedro-Python" height="30" width="30" src="https://cdn.discordapp.com/attachments/913474140814606346/913474172208971876/c.png">
  <img align="center" alt="Pedro-Python" height="30" width="30" src="https://cdn.discordapp.com/attachments/913474140814606346/923985647264477276/pngwing.com.png">
+ <img align="center" alt="Pedro-Python" height="30" width="30" src="https://media.discordapp.net/attachments/913474140814606346/945456167906328596/pngwing.com.png">
 </div>
   
   ##
