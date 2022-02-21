@@ -24,6 +24,9 @@
  <img align="center" alt="Pedro-Python" height="30" width="30" src="https://cdn.discordapp.com/attachments/913474140814606346/913474172208971876/c.png">
  <img align="center" alt="Pedro-Python" height="30" width="30" src="https://cdn.discordapp.com/attachments/913474140814606346/923985647264477276/pngwing.com.png">
  <img align="center" alt="Pedro-Python" height="30" width="30" src="https://media.discordapp.net/attachments/913474140814606346/945456167906328596/pngwing.com.png">
+  <img align="center" alt="Pedro-Python" height="30" width="30" src="https://media.discordapp.net/attachments/913474140814606346/945457866003849296/pngwing.com_1.png">
+  <img align="center" alt="Pedro-Python" height="30" width="30" src="https://media.discordapp.net/attachments/913474140814606346/945457898941743124/pngwing.com_2.png">
+  <img align="center" alt="Pedro-Python" height="30" width="30" src="https://media.discordapp.net/attachments/913474140814606346/945457927643353088/pngwing.com_3.png">
 </div>
   
   ##
