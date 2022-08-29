@@ -1,46 +1,183 @@
- <p align="center"><img alt="Pedro-Foto" height="125px" width="145px" src="https://cdn.discordapp.com/attachments/865386462530240595/890023245691125770/corpo_todo.png"></p>
-<h1 align="center"> Hello world, I'm Pedro Henrique Klein </h1> 
+<!DOCTYPE html>
+<html lang="en">
 
-<h3 align="center"> Welcome </h3>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>walking Cat Animation using CSS - @data._.pirates x @code.scientist</title>
+    <link rel="stylesheet" href="style.css">
+</head>
 
-<p align="center">📚 Studying Computer Science at the Federal University of Fronteira Sul </p>
-<p align="center">💼 I work at Descomplica with Analytics </p>
+<style>
+    html {
+        font-size: 20px;
+        margin: 0;
+        background: #0c0207;
+    }
 
+    #marco {
+        width: 1325px;
+        height: 500px;
+        margin: 0 auto;
+        overflow: hidden;
+        border-radius: 16px;
+        margin-top: 2em;
+    }
 
-##
+    #cielo {
+        border-radius: 16px;
+        width: 1325px;
+        height: 500px;
+        background: linear-gradient(to bottom, #0B4C5F 0%, #04B4AE 52%, #0c0207 100%);
+        position: absolute;
+        z-index: -30;
+        top: 0;
+        margin-top: 2em;
+    }
 
- <div align="center">
-  <a href="https://github.com/Pedrinhonitz">
-  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=Pedrinhonitz&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrinhonitz&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
-  
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Pedro-Js" height="30" width="30" src="https://cdn.discordapp.com/attachments/895045831504314379/902597629718970438/React.png">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Pedro-Python" height="30" width="30" src="https://cdn.discordapp.com/attachments/913474140814606346/913474172208971876/c.png">
- <img align="center" alt="Pedro-Python" height="30" width="30" src="https://cdn.discordapp.com/attachments/913474140814606346/923985647264477276/pngwing.com.png">
- <img align="center" alt="Pedro-Python" height="30" width="30" src="https://media.discordapp.net/attachments/913474140814606346/945456167906328596/pngwing.com.png">
-  <img align="center" alt="Pedro-Python" height="30" width="30" src="https://media.discordapp.net/attachments/913474140814606346/945457866003849296/pngwing.com_1.png">
-  <img align="center" alt="Pedro-Python" height="30" width="30" src="https://media.discordapp.net/attachments/913474140814606346/945457898941743124/pngwing.com_2.png">
-  <img align="center" alt="Pedro-Python" height="30" width="30" src="https://media.discordapp.net/attachments/913474140814606346/945457927643353088/pngwing.com_3.png">
-</div>
-  
-  ##
-  
-  <div align="center">
-  <a href = "mailto:pedrohenriquekleinphg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/pedro-henrique-klein-a41122221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
-  
-  ##
-  <p align="center"><img align="center" alt="Pedro-Foto2" height="105px" width="125px" src="https://cdn.discordapp.com/attachments/865386462530240595/890023437324681227/Pescoco_pra_cima.png"></p>
- 
-  ##
- <h2 align="center"> 🟢 Profile views 🟢</h2><br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Pedrinhonitz/count.svg" />
- </p>
+    #edificios {
+        background: url('https://res.cloudinary.com/pastelitos/image/upload/v1610526533/eva/edificiosOne_fsg7nx.svg');
+        height: 500px;
+        width: 1325px;
+        z-index: -10;
+        top: 6.5em;
+        background-position: 0px 0px;
+        background-repeat: repeat-x;
+        -webkit-animation: animar_edificios 120s linear infinite;
+        -ms-animation: animar_edificios 120s linear infinite;
+        -moz-animation: animar_edificios 120s linear infinite;
+        position: absolute;
+    }
+
+    /* Animacion edificios */
+
+    @keyframes animar_edificios {
+        from {
+            background-position: 0 0;
+        }
+
+        to {
+            background-position: 100% 0;
+        }
+    }
+
+    @-webkit-keyframes animar_edificios {
+        from {
+            background-position: 0 0;
+        }
+
+        to {
+            background-position: 100% 0;
+        }
+    }
+
+    @-ms-keyframes animar_edificios {
+        from {
+            background-position: 0 0;
+        }
+
+        to {
+            background-position: 100% 0;
+        }
+    }
+
+    @-moz-keyframes animar_edificios {
+        from {
+            background-position: 0 0;
+        }
+
+        to {
+            background-position: 100% 0;
+        }
+    }
+
+    #luna {
+        width: 6em;
+        height: 6em;
+        -moz-border-radius: 50%;
+        -webkit-border-radius: 50%;
+        border-radius: 50%;
+        -moz-box-shadow: 30px 10px 0 #F7F8E0;
+        -webkit-box-shadow: 30px 10px 0 #F7F8E0;
+        box-shadow: 30px 10px 0 #F7F8E0;
+        margin-top: 1em;
+        margin-left: 50%;
+        position: absolute;
+        z-index: -19;
+    }
+
+    #muro {
+        height: 23em;
+        width: 100%;
+        background: -moz-linear-gradient(top, #416663 0%, #0c0207 19%);
+        background: -webkit-linear-gradient(top, #416663 0%, #0c0207 19%);
+        background: linear-gradient(to bottom, #416663 0%, #0c0207 19%);
+        bottom: 0px;
+    }
+
+    #gato {
+        background: url('https://res.cloudinary.com/pastelitos/image/upload/v1610526571/eva/gatito_pushui.svg');
+        height: 297px;
+        width: 507.5px;
+        margin-top: 2em;
+        margin-left: 2em;
+        z-index: 10;
+        -webkit-animation: sprite-animation 1.2s steps(16, end) infinite;
+        -moz-animation: sprite-animation 1.2s steps(16, end) infinite;
+        -ms-animation: sprite-animation 1.2s steps(16, end) infinite;
+        animation: sprite-animation 1.2s steps(16, end) infinite;
+    }
+
+    @-webkit-keyframes sprite-animation {
+        from {
+            background-position: 0 0;
+        }
+
+        to {
+            background-position: -8120px 0;
+        }
+    }
+
+    @-ms-keyframes sprite-animation {
+        from {
+            background-position: 0 0;
+        }
+
+        to {
+            background-position: -8120px 0;
+        }
+    }
+
+    @-moz-keyframes sprite-animation {
+        from {
+            background-position: 0 0;
+        }
+
+        to {
+            background-position: -8120px 0;
+        }
+    }
+
+    @keyframes sprite-animation {
+        from {
+            background-position: 0 0;
+        }
+
+        to {
+            background-position: -8120px 0;
+        }
+    }
+</style>
+
+<body>
+    <div id="marco">
+        <div id="cielo"></div>
+        <div id="luna"></div>
+        <div id="gato"></div>
+        <div id="muro"></div>
+        <div id="edificios"></div>
+    </div>
+</body>
+
+</html>
