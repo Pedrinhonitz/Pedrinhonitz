@@ -1,46 +1,88 @@
- <p align="center"><img alt="Pedro-Foto" height="125px" width="145px" src="https://cdn.discordapp.com/attachments/865386462530240595/890023245691125770/corpo_todo.png"></p>
-<h1 align="center"> Hello world, I'm Pedro Henrique Klein </h1> 
+## Hello World 👋
 
-<h3 align="center"> Welcome </h3>
+#### 🧍 My name is Pedro Henrique Klein;
+#### 📚 Computer Science Student at UFFS and Systems Analysis and Development at Descomplica;
+#### 💼 Analista de Robotic Process Automation Developer at Descomplica;
+#### 🧬 Passionate about technology, especially the data area.
 
-<p align="center">📚 Studying Computer Science at the Federal University of Fronteira Sul </p>
-<p align="center">💼 I work at Descomplica with Analytics </p>
 
+<br>
 
-##
+## About Me: 
 
- <div align="center">
-  <a href="https://github.com/Pedrinhonitz">
-  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=Pedrinhonitz&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrinhonitz&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```python
+Pedro = {
+    "name" : "Pedro Henrique Klein",
+    "acknowledgements" : "Data Engineering / Robotic Process Automation",
+
+    "primarySkillset" : "Troubleshooting / Cloud Services / Process Automation",
+    "languages" : ['Python', 'SQL', 'AWS', 'Apache Airflow', 'Athena', 'Postgresql']
+}
+```
+
+<br>
+
+## **Languages ​​and Tools:**  
+<div>
+    <p>
+        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
+        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
+        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code> 
+        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> 
+        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+    </p>
 </div>
-  
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Pedro-Js" height="30" width="30" src="https://cdn.discordapp.com/attachments/895045831504314379/902597629718970438/React.png">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Pedro-Python" height="30" width="30" src="https://cdn.discordapp.com/attachments/913474140814606346/913474172208971876/c.png">
- <img align="center" alt="Pedro-Python" height="30" width="30" src="https://cdn.discordapp.com/attachments/913474140814606346/923985647264477276/pngwing.com.png">
- <img align="center" alt="Pedro-Python" height="30" width="30" src="https://media.discordapp.net/attachments/913474140814606346/945456167906328596/pngwing.com.png">
-  <img align="center" alt="Pedro-Python" height="30" width="30" src="https://media.discordapp.net/attachments/913474140814606346/945457866003849296/pngwing.com_1.png">
-  <img align="center" alt="Pedro-Python" height="30" width="30" src="https://media.discordapp.net/attachments/913474140814606346/945457898941743124/pngwing.com_2.png">
-  <img align="center" alt="Pedro-Python" height="30" width="30" src="https://media.discordapp.net/attachments/913474140814606346/945457927643353088/pngwing.com_3.png">
+
+<br>
+
+## **GitHub Statistics**
+
+<div align="center">
+    <a href="https://github.com/Pedrinhonitz">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrinhonitz&theme=radical&hide_langs_below=1" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pedrinhonitz&show_icons=true&theme=radical&line_height=27" alt="Pedrinhonitz github stats"/>
+    </a>
 </div>
-  
-  ##
-  
-  <div align="center">
-  <a href = "mailto:pedrohenriquekleinphg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/pedro-henrique-klein-a41122221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
-  
-  ##
-  <p align="center"><img align="center" alt="Pedro-Foto2" height="105px" width="125px" src="https://cdn.discordapp.com/attachments/865386462530240595/890023437324681227/Pescoco_pra_cima.png"></p>
- 
-  ##
- <h2 align="center"> 🟢 Profile views 🟢</h2><br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Pedrinhonitz/count.svg" />
- </p>
+
+
+[website]: https://github.com/Pedrinhonitz/
+[twitter]: https://twitter.com/Pedrinhonitz/
+[youtube]: https://www.youtube.com/channel/UCif7HD_60HZc1tQ7duGZ4Xg/
+[instagram]: https://www.instagram.com/pedrinhonitz/
+[linkedin]: https://www.linkedin.com/in/pedro-henrique-klein-a41122221/
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+#### Social networks!
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
