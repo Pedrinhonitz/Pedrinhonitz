@@ -85,4 +85,7 @@ Pedro = {
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
+<br>
 
+### Profile views!
+<img alingn="left" src="https://profile-counter.glitch.me/Pedrinhonitz/count.svg" />
