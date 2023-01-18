@@ -50,8 +50,8 @@ Pedro = {
 
 <div align="center">
     <a href="https://github.com/Pedrinhonitz">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrinhonitz&theme=radical&hide_langs_below=1" />
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pedrinhonitz&show_icons=true&theme=radical&line_height=27" alt="Pedrinhonitz github stats"/>
+        <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pedrinhonitz&theme=radical&hide_langs_below=1" />
+        <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedrinhonitz&show_icons=true&theme=radical&line_height=27" alt="Pedrinhonitz github stats"/>
     </a>
 </div>
 
