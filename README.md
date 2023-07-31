@@ -2,7 +2,7 @@
 
 #### 🧍 My name is Pedro Henrique Klein;
 #### 📚 Computer Science Student at UFFS and Systems Analysis and Development at Descomplica;
-#### 💼 Analista de Robotic Process Automation Developer at Descomplica;
+#### 💼 Data Analyst at Descomplica;
 #### 🧬 Passionate about technology, especially the data area.
 
 
@@ -15,10 +15,10 @@
 ```python
 Pedro = {
     "name" : "Pedro Henrique Klein",
-    "acknowledgements" : "Data Engineering / Robotic Process Automation",
+    "acknowledgements" : "Data Engineering / Data Analyst",
 
     "primarySkillset" : "Troubleshooting / Cloud Services / Process Automation",
-    "languages" : ['Python', 'SQL', 'AWS', 'Apache Airflow', 'Athena', 'Postgresql']
+    "languages" : ['Python', 'SQL', 'AWS', 'Apache Airflow', 'Snowflake', 'Athena', 'Postgresql']
 }
 ```
 
