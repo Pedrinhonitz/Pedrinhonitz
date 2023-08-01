@@ -4,6 +4,7 @@
 #### 📚 Computer Science Student at UFFS and Systems Analysis and Development at Descomplica;
 #### 💼 Data Analyst at Descomplica;
 #### 🧬 Passionate about technology, especially the data area.
+#### 🔒 My corporate account [pedro-klein-desco](https://github.com/pedro-klein-desco)
 
 
 <br>
