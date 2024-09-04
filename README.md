@@ -1,92 +1,52 @@
-## Hello World 👋
+# Olá, eu sou Pedro Henrique Klein 👋
 
-#### 🧍 My name is Pedro Henrique Klein;
-#### 📚 Computer Science Student at UFFS and Systems Analysis and Development at Descomplica;
-#### 💼 Data Analyst at Descomplica;
-#### 🧬 Passionate about technology, especially the data area.
-#### 🔒 My corporate account [pedro-klein-desco](https://github.com/pedro-klein-desco)
+Sou estudante de Ciência da Computação na [UFFS](https://www.uffs.edu.br) e trabalho como Engenheiro de Dados na [BIP](https://bipbrasil.com.br/). Minha paixão por dados e tecnologia me motiva a explorar constantemente novas ferramentas e técnicas para resolver desafios complexos.
 
+## 🛠 Tecnologias e Ferramentas
 
-<br>
+- **Linguagens de Programação**: Python, SQL, JavaScript, Java, Shell, C, C++, PHP, Ruby, Lua, Haskell
+- **Tecnologias de Dados**: Airflow, PySpark, DBT, Elementary, Snowpark, Luigi, Glue
+- **Plataformas de Nuvem**: AWS, GCP
+- **Bancos de Dados**: BigQuery, Athena, PostgreSQL, Redis, Snowflake, MongoDB, Neo4j, MySQL, MariaDB, SQL Server, Oracle, ArangoDB
+- **Conteinerização**: Docker, Kubernetes
+- **Desenvolvimento Backend**: Django, Node.js, PHP, Twig
 
-## About Me: 
+## 🚀 Projetos Recentes
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+### [Dataops](https://github.com/Pedrinhonitz/dataops)
+Este projeto demonstra a eficácia da combinação de Airflow e DBT para criar pipelines de dados robustos e escaláveis, melhorando significativamente os processos de ETL e a gestão de dados.
 
-```python
-Pedro = {
-    "name" : "Pedro Henrique Klein",
-    "acknowledgements" : "Data Engineering / Data Analyst",
+### [Snake Game](https://github.com/Pedrinhonitz/snake-game)
+Este projeto é um ótimo exemplo de como implementar um jogo clássico utilizando tecnologias web básicas. É ideal tanto para aprendizado quanto para a demonstração de conceitos de programação em jogos.
 
-    "primarySkillset" : "Troubleshooting / Cloud Services / Process Automation",
-    "languages" : ['Python', 'SQL', 'AWS', 'Apache Airflow', 'Snowflake', 'Athena', 'Postgresql']
-}
-```
+### [DBT with Elementary](https://github.com/Pedrinhonitz/dbt-with-elementary)
+Este projeto une o poder do DBT com o do Elementary, garantindo a governança dos dados e gerando relatórios de cada execução.
 
-<br>
+## 🌱 Atualmente Aprendendo
 
-## **Languages ​​and Tools:**  
-<div>
-    <p>
-        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
-        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
-        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code> 
-        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> 
-        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-        <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-    </p>
-</div>
+- Programação Funcional
+- Haskell
+- Scala
 
-<br>
+## 📈 Estatísticas do GitHub
 
-## **GitHub Statistics**
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pedrinhonitz&show_icons=true&theme=radical&count_private=true)
+![Gráfico de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=Pedrinhonitz&theme=radical)
 
-<div align="center">
-    <a href="https://github.com/Pedrinhonitz">
-        <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pedrinhonitz&theme=radical&hide_langs_below=1" />
-        <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedrinhonitz&show_icons=true&theme=radical&line_height=27" alt="Pedrinhonitz github stats"/>
-    </a>
-</div>
+<!-- ![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrinhonitz&layout=compact&theme=radical) -->
+<!-- ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Pedrinhonitz&theme=radical) -->
 
+![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pedrinhonitz&theme=radical)
+![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pedrinhonitz&theme=radical)
+## 📫 Como Me Encontrar
 
-[website]: https://github.com/Pedrinhonitz/
-[twitter]: https://twitter.com/Pedrinhonitz/
-[youtube]: https://www.youtube.com/channel/UCif7HD_60HZc1tQ7duGZ4Xg/
-[instagram]: https://www.instagram.com/pedrinhonitz/
-[linkedin]: https://www.linkedin.com/in/pedro-henrique-klein-a41122221/
+- **LinkedIn**: [Pedro Henrique Klein](https://www.linkedin.com/in/pedro-henrique-klein-a41122221/)
+- **E-mail**: pedrohenriquekleinphg@gmail.com
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+## 😄 Sobre Mim
 
-#### Social networks!
+Quando não estou estudando ou trabalhando, gosto de jogar e assistir a séries. Também sou apaixonado por música e toco violão, guitarra e teclado.
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+---
 
-<br>
-
-### Profile views!
-<img alingn="left" src="https://profile-counter.glitch.me/Pedrinhonitz/count.svg" />
+Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser conversar sobre tecnologia, dados ou qualquer outra coisa!
