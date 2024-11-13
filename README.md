@@ -1,6 +1,10 @@
 # Olá, eu sou Pedro Henrique Klein 👋
 
-Sou estudante de Ciência da Computação na [UFFS](https://www.uffs.edu.br) e trabalho como Engenheiro de Dados na [BIP](https://bipbrasil.com.br/). Minha paixão por dados e tecnologia me motiva a explorar constantemente novas ferramentas e técnicas para resolver desafios complexos.
+Sou estudante de Ciência da Computação na [UFFS](https://www.uffs.edu.br) e trabalho como consultor de Engenharia de Dados na [BIP](https://bipbrasil.com.br/) alocado no projeto Pro Carbon da Bayer. Minha paixão por dados e tecnologia me motiva a explorar constantemente novas ferramentas e técnicas para resolver desafios complexos.
+
+Contas Profissionais:
+  - [Descomplica](https://github.com/pedro-klein-desco)
+  - [Bayer](https://github.com/pedro-klein-ext-bayer)
 
 ## 🛠 Tecnologias e Ferramentas
 
